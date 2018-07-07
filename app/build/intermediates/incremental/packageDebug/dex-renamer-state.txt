@@ -1,0 +1,7 @@
+#Sun Jul 30 16:27:39 IST 2017
+base.0=G\:\\Infosys\\Fall Detect\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c56fbfb99d2308024859cfc9b95535bd0bb364b6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=G\:\\Infosys\\Fall Detect\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_89faf1bf35dd13969b79979b4be9feed89c0e71a\\classes.dex
+base.1=G\:\\Infosys\\Fall Detect\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_89faf1bf35dd13969b79979b4be9feed89c0e71a
+file.0=G\:\\Infosys\\Fall Detect\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c56fbfb99d2308024859cfc9b95535bd0bb364b6\\classes.dex

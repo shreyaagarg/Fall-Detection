@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\Infosys\Fall Detect\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c728959abd39b3375ae019a51ab76632d76bc7a6">
+        <dex dex="G:\Infosys\Fall Detect\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_89faf1bf35dd13969b79979b4be9feed89c0e71a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gagandeep Chugh\.android\build-cache\76de17e25c249a8871b8c7bb5febf3560ee4cf1a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="G:\Infosys\Fall Detect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_614f4a175353c313aa145b630eeda2f256ae5c11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Infosys\Fall Detect\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="G:\Infosys\Fall Detect\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c56fbfb99d2308024859cfc9b95535bd0bb364b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gagandeep Chugh\.android\build-cache\757364eb9ca2371683c7dd47d4ffb32f28ba3df2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="G:\Infosys\Fall Detect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c765700181c3837a5b522a066873920595cac22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gagandeep Chugh\.android\build-cache\94d6f23983d808dda106d1d486e947a9bb86502d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="G:\Infosys\Fall Detect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59877178e5f0a0878d3580146081ea582819a7e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gagandeep Chugh\.android\build-cache\2ba780b2fe13badc4952350e32e01b3722a7d55a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="G:\Infosys\Fall Detect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_597f9551a8befa6b7c3d394c78b85471ced57aff\classes.dex" />
+    </item>
+
+</items>

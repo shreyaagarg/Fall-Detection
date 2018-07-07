@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fr3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.gagandeepchugh.falldetection.frame3"
+    android:background="@drawable/front">
+<!--<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>-->
+<!--<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>-->
+
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="50dp"
+        android:text="I am alright"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="14dp"
+        android:padding="50dp"
+        android:text="I need help"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/button3"
+        android:layout_alignStart="@+id/button3" />
+</RelativeLayout>
